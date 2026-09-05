@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="SatQuery AI" width="1000" />
+
 # MoonKnight - Apollo 11 DSKY / Lunar Descent Simulation (ESP32)
 
 A hardware simulation of the Apollo Guidance Computer's DSKY (Display and
