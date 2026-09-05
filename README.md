@@ -34,7 +34,7 @@ the sequence of real descent programs, and the role of the crew's PRO
 - [License and attribution](#license-and-attribution)
 
 ## Demo
-<img src="assets/demo.gif" alt="SatQuery AI" width="1000" />
+<img src="assets/demo.jpg" alt="SatQuery AI" width="1000" />
 Wiring done on a full sized bread board. 3v3 and GND connected to rails with D21 and D22 on opposite rails.
 
 ## Hardware
