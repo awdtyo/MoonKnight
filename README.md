@@ -1,6 +1,6 @@
 <img src="assets/banner.png" alt="SatQuery AI" width="1000" />
 
-# MoonKnight - Apollo 11 DSKY / Lunar Descent Simulation (ESP32)
+# MoonKnight - Apollo 11 Lunar Descent Simulation using ESP32
 
 A hardware simulation of the Apollo Guidance Computer's DSKY (Display and
 Keyboard) interface and the final descent programs of the Apollo 11 landing,
