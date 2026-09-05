@@ -33,6 +33,9 @@ the sequence of real descent programs, and the role of the crew's PRO
 - [Extending it](#extending-it)
 - [License and attribution](#license-and-attribution)
 
+## Demo
+<img src="assets/demo.jpg" alt="SatQuery AI" width="1000" />
+
 ## Hardware
 
 | Part | Notes |
