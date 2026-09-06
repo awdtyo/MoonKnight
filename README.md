@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="SatQuery AI" width="700" />
+<img src="assets/banner.png" alt="SatQuery AI" width="1000" />
 
 # MoonKnight - Apollo 11 Lunar Descent Simulation using ESP32
 
